@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: har17bar/python-app
   pullPolicy: IfNotPresent
-  tag: ed7159
+  tag: f8e612
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
